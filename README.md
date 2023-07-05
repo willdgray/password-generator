@@ -5,4 +5,4 @@ matching all of the selected critia.
 
 ![Screenshot (42)](https://github.com/willdgray/password-generator/assets/135686193/6c2c63f1-8d21-4580-8456-de2f2827830e)
 
-https://willdgray.github.io/random-password/
+https://willdgray.github.io/password-generator/
